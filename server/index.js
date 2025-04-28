@@ -24,8 +24,8 @@ app.use(
   cors({
     origin: [
       'http://localhost:3000',
-      'https://veera-nari-website-yi2o.vercel.app',
-      'https://veera-nari-website-yi2o-ansus-projects-816df668.vercel.app/'
+      'https://veera-nari-website-95p3.vercel.app',
+      'https://veera-nari-website-95p3-angshus-projects.vercel.app'
     ],
     credentials: true,
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
